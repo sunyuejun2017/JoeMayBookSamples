@@ -9,6 +9,8 @@ using System.Text.RegularExpressions;
 using System.Linq;
 using Microsoft.Bot.Connector;
 
+using System.Configuration;
+
 namespace WineBotLuis.Dialogs
 {
     //[LuisModel(
